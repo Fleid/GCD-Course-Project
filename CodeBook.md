@@ -20,7 +20,9 @@ The data was originally split in 2 datasets (training data and test data, for ma
 
 #### Variables in the final datasets
 
-Average of each variable for each activity and each subject:
+Please note that each variable is the average of the measurements done for that Subject and Activity.
+
+**The variable are normalized and bounded within [-1,1]**
 
 Variable | Description 
 ------------ | -------------
