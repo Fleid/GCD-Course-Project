@@ -1,6 +1,6 @@
 GCD-Course-Project
 ==================
-Repository for the final project for the Coursera [Getting and Cleaning Data][1].
+Repository for the final project of the Coursera [Getting and Cleaning Data][1] course.
 
 ##### Files included:
 
